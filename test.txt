@@ -1,0 +1,5 @@
+total 12
+drwxr-xr-x  3 Christian Christian 4096 Mar  6 19:28 .
+drwxr-xr-x 15 Christian Christian 4096 Mar  6 19:21 ..
+drwxr-xr-x  7 Christian Christian 4096 Mar  6 19:21 .git
+-rw-r--r--  1 Christian Christian    0 Mar  6 19:28 test.txt
